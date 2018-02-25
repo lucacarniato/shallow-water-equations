@@ -223,5 +223,3 @@ end
 %update timestep
 t = t + dt;
 end
-cd('frames');
-Movie_from_frames('SWE_','.jpg',nf,5)
