@@ -1,4 +1,4 @@
-# shallowWaterEquations
+# ShallowWaterEquations
 
 This octave scripts solves inviscid shallow water equations on a square domain with reflecting boundary conditions. 
 
