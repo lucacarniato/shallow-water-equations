@@ -5,7 +5,7 @@ clear;
 close all;
 
 %domain
-m       = 30; 
+m       = 100; 
 dx      = 1/m; 
 dy      = 1/m;
 xc       = -dx/2:dx:1+dx/2; 
